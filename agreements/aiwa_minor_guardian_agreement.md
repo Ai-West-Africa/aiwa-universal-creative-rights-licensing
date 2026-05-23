@@ -1,303 +1,266 @@
-# AIWA Minor Contributor and Guardian Agreement
+# AIWA Minor Contributor & Guardian Consent Agreement
 
-Version: v1.0-draft
-Status: Minor-specific Universal Creative Rights & AI Infrastructure Agreement System
+Version: v1.1-draft
+Status: Guardian-centered protected onboarding and safeguarded exploitation framework
 
 ## PART I — Plain Language Summary
 
 This summary is for readability only. The operative terms are in the legal clauses below.
 
-### What the minor Contributor keeps
-- The minor Contributor keeps copyright ownership in the Works unless a separate written transfer addendum, signed by an authorized guardian when legally permitted, expressly says otherwise.
-- The minor Contributor keeps all rights not expressly licensed here.
-- This Agreement is designed for non-exclusive participation and does not make AIWA the minor's employer, school, guardian, or legal representative.
+### Who owns the work
+- The Minor keeps copyright ownership in the Works unless a separate written transfer addendum, signed only where legally permitted, expressly says otherwise.
+- This Agreement is a protected onboarding framework, not a scaled-down adult commercial contract.
+- Rights not expressly granted remain with the Minor.
 
-### What AIWA receives
-- AIWA receives limited non-exclusive rights to onboard, host, distribute, monetize, protect, and administer the Works in approved channels.
-- AIWA receives metadata, provenance, anti-fraud, and compliance rights needed to operate safely and lawfully.
-- AIWA receives limited AI-processing rights for trust and safety, accessibility, localization, recommendation, rights management, and any additional minor-specific AI uses expressly approved in writing.
+### What AIWA can do
+- AIWA may onboard, host, preserve, verify, distribute, monetize, and protect the Works within the narrower limits of this Agreement, the Guardian's elections, and selected schedules.
+- AIWA may use service providers, distribution partners, educational platforms, UGC services, and rights-administration vendors where needed to operate the account.
+- AIWA may refuse, delay, or limit uses that create child-safety, educational, legal, reputational, or platform-integrity risk.
 
-### AI rights summary
-- By default, AIWA may use the Works and related Metadata for moderation, fraud detection, fingerprinting, search, accessibility, translation, recommendation, rights administration, and safety analytics.
-- AIWA may create embeddings, hashes, and provenance records needed for those functions.
-- AIWA may not use a minor Contributor's identifiable Works or voice to train or commercialize general-purpose generative models unless a separate minor AI schedule expressly authorizes that use with guardian consent and additional safeguards.
-- AIWA may retain already-created safety, fraud, provenance, and compliance artifacts after termination where reasonably necessary for protection of the minor, platform integrity, or legal compliance.
+### What AI rights exist
+- AIWA may use the Works and related account materials for search, indexing, fingerprinting, moderation, fraud detection, provenance, recommendation, accessibility, and other low-risk operational purposes described below.
+- Translation, localization, and some optional AI-enabled services may be turned on only if the Guardian elects them.
+- Commercial AI training is off by default.
+- Synthetic voice cloning, facial replication, biometric identity modeling, personality simulation, deepfake generation, and generative identity simulation are prohibited unless a separate written consent framework expressly authorizes a legally permitted use.
 
-### Payment summary
-- AIWA will account for revenue actually received, subject to agreed commissions, third-party fees, taxes, chargebacks, reserves, fraud holds, and legal deductions.
-- AIWA may require payment instructions controlled by a verified guardian or other legally authorized payee.
+### What can survive termination
+- AIWA may keep non-public records reasonably needed for fraud prevention, provenance, compliance, dispute handling, and system integrity.
+- AIWA may keep embeddings, hashes, and other internal safety artifacts already created for protective or administrative purposes.
+- This Agreement does not authorize irrevocable perpetual commercialization of minor-derived AI assets.
 
-### Termination summary
-- A verified guardian may request suspension, review, or termination of future exploitation, subject to operational wind-down and pre-existing commitments.
-- AIWA may suspend Works immediately for safety, legal, platform, fraud, or age-verification reasons.
-- When the minor reaches the age of majority, AIWA may require transition into an adult agreement before continuing broader commercial or AI uses.
+### Guardian responsibilities
+- The Guardian must have lawful authority, complete verification, approve schedules and elections, monitor the account, and keep rights, payment, and age information accurate.
+- The Guardian must not approve uses that are unsafe, misleading, exploitative, or outside the Guardian's legal authority.
 
-### AI survivability summary
-- AIWA will review removal requests affecting minors with enhanced priority.
-- AIWA may retain non-public records, embeddings, fraud signals, and compliance materials already created for safety, provenance, and legal reasons, but broad ongoing commercialization of minor-derived AI assets is not authorized unless separately approved.
+### How removals work
+- A verified Guardian may request suspension, reconsideration, restriction, de-indexing review, AI exclusion review, or prospective termination.
+- AIWA will give minor-related removal and restriction requests enhanced review, but immediate deletion may not be possible where active licenses, compliance duties, or technical dependencies exist.
 
-### Anti-fraud warning
-- AIWA may investigate identity fraud, guardian fraud, synthetic voice fraud, age misrepresentation, fake streams, manipulated ownership claims, unauthorized samples, and other abusive conduct.
-
-### Contributor and guardian responsibilities
-- The guardian must confirm authority to act for the minor, verify the minor's age, monitor submitted Works, and keep rights and payment information accurate.
-- The minor Contributor and guardian must not submit unlawful, deceptive, infringing, exploitative, or unsafe content.
+### How protections differ from adult agreements
+- Rights are narrower, commercialization is more limited, guardian approval is central, AI permissions are tiered, and sensitive exploitations are restricted by default.
+- When the Minor reaches the age of majority, continued use requires transition into the adult framework with refreshed permissions.
 
 ## PART II — Definitions
 
-### 1. Works
-"Works" means all content, files, media, expressions, and deliverables that the minor Contributor or guardian submits, uploads, authorizes, links, or otherwise makes available to AIWA, including future digital media formats approved for the account.
+### 1. Minor
+"Minor" means a Contributor who has not reached the age of legal majority under applicable law.
 
-### 2. Literary Works
-"Literary Works" means books, educational text, scripts, lyrics, captions, articles, and other text-based works submitted for the minor Contributor.
+### 2. Guardian
+"Guardian" means the parent, legal guardian, or other legally authorized adult with authority to consent for the Minor, receive notices, approve elections and schedules, and receive payments where legally permitted.
 
-### 3. Sound Recordings
-"Sound Recordings" means music recordings, spoken-word recordings, podcasts, audiobooks, voice performances, and other audio-only works involving the minor Contributor.
+### 3. Works
+"Works" means the content, files, media, performances, and deliverables that the Guardian or Minor submits, uploads, or authorizes through the account, including music, books, audiobooks, podcasts, spoken word, video, photography, graphics, educational media, and future approved formats.
 
-### 4. Audiovisual Works
-"Audiovisual Works" means video, film, livestream captures, animation, visual podcasts, and other synchronized audio-visual works involving the minor Contributor.
+### 4. Protected Works
+"Protected Works" means Works involving a Minor that require heightened controls because they include the Minor's image, voice, likeness, educational context, sensitive personal context, or other risk factors identified by AIWA's safeguarding systems or the Guardian.
 
-### 5. Visual Works
-"Visual Works" means photographs, illustrations, graphics, cover art, designs, still images, and other image-based works involving the minor Contributor.
+### 5. Contributor Materials
+"Contributor Materials" means the Works, metadata, approved names, approved likeness materials, biographies, rights documents, age records, payout instructions, and other materials supplied for the account.
 
 ### 6. Metadata
-"Metadata" means descriptive, technical, administrative, commercial, rights-management, safety, provenance, identity, age-verification, and transactional information associated with the Works or account.
+"Metadata" means descriptive, technical, administrative, commercial, provenance, identity, age-verification, and transactional information associated with the Works or account.
 
-### 7. AI Datasets
-"AI Datasets" means machine-readable collections derived from or containing Works, Contributor Materials, Metadata, or transformed representations used for moderation, rights management, localization, accessibility, safety, evaluation, or other expressly authorized AI purposes.
+### 7. Age Verification
+"Age Verification" means AIWA's process for validating the Minor's age band, the Guardian's identity and authority, and continued eligibility for the account or selected uses.
 
-### 8. Embeddings
-"Embeddings" means vectors, hashes, fingerprints, token representations, and other machine-readable encodings generated from Works, Contributor Materials, or Metadata.
+### 8. Educational Uses
+"Educational Uses" means distribution, access, or display for schools, libraries, training programs, educational institutions, youth initiatives, curricular services, or similar learning environments.
 
-### 9. Derivative Outputs
-"Derivative Outputs" means previews, clips, captions, subtitles, accessibility formats, thumbnails, translations, tags, summaries, analytics outputs, and other authorized transformed materials derived from the Works.
+### 9. Sensitive Biometric Data
+"Sensitive Biometric Data" means voiceprints, facial geometry, gait data, or other biometric identifiers or templates that can be used to identify, authenticate, model, or simulate the Minor.
 
-### 10. Platform Services
-"Platform Services" means AIWA's onboarding, storage, rights administration, safety review, distribution, monetization, analytics, settlement, trust and safety, anti-fraud, provenance, and related services.
+### 10. Restricted AI Uses
+"Restricted AI Uses" means commercial AI training, synthetic voice cloning, facial replication, biometric identity modeling, personality simulation, deepfake generation, generative identity simulation, sensitive profiling, or other high-risk AI-enabled exploitation not expressly approved under this Agreement.
 
-### 11. UGC Services
-"UGC Services" means user-generated-content platforms, social services, creator ecosystems, and similar services that allow uploads, sharing, remixing, or monetization.
+### 11. AI Elections
+"AI Elections" means the Guardian's affirmative selections regarding optional AI-enabled uses for the account.
 
-### 12. Distribution Services
-"Distribution Services" means digital or physical distribution, streaming, download, publishing, syndication, retail, educational distribution, and marketplace delivery services.
+### 12. Platform Services
+"Platform Services" means AIWA's onboarding, storage, rights administration, distribution, monetization, trust and safety, anti-fraud, provenance, analytics, settlement, and related services.
 
-### 13. AI Systems
-"AI Systems" means machine learning, moderation, search, recommendation, translation, rights-detection, fraud-detection, accessibility, analytics, and other automated systems used by AIWA or its authorized providers.
+## PART III — Guardian Authority, Consent, and Age Tiering
 
-### 14. Commercial Exploitation
-"Commercial Exploitation" means monetized use of the Works or Derivative Outputs, including sales, streams, advertising, sync, subscriptions, educational licensing, UGC monetization, sublicensing, and marketplace opportunities expressly permitted for the minor account.
+### 13. Guardian authority
+The Guardian represents, warrants, and covenants that the Guardian has lawful authority to bind the Minor for the purposes of this Agreement, approve schedules and elections, receive payments where legally permitted, and submit or authorize the Contributor Materials.
 
-### 15. Contributor Materials
-"Contributor Materials" means Works, Metadata, names, approved likenesses, biographies, artwork, school or educational context disclosures where needed, rights documents, payment records, and other materials supplied for the minor Contributor account.
+### 14. Consent to onboarding and selected uses
+The Guardian consents to AIWA onboarding the Minor account and exercising only those rights expressly granted in this Agreement, the selected schedules, and the Guardian's current elections.
 
-### 16. Guardian
-"Guardian" means the parent, legal guardian, or other legally authorized adult with authority to bind the minor Contributor and make account decisions.
+### 15. Age verification and continuing duty to update
+The Guardian must provide accurate age and authority information and promptly update AIWA if custody, consent authority, age band, school restrictions, performance restrictions, or other material circumstances change.
 
-## PART III — Grant of Rights
+### 16. Misrepresentation consequences
+If AIWA reasonably concludes that age information, identity information, or guardian authority was inaccurate or misleading, AIWA may suspend the account, reverse pending activations, hold payouts, unwind future-facing permissions, and require additional verification before resuming services.
 
-### 17. General structure of the grant
-**Scope.** Subject to this Agreement, applicable law, and selected schedules, the Guardian on behalf of the minor Contributor grants AIWA the separate rights in Sections 18 through 22 on a non-exclusive, worldwide, sublicensable basis.
+### 17. Age-tiered handling
+AIWA may apply age-tiered controls to reduce risk and calibrate permissions:
 
-**Operational purpose.** The grant is structured to separate ownership from operational, commercial, AI, metadata, and enforcement functions while applying enhanced safeguards for minors.
+| Age band | Default handling |
+| --- | --- |
+| Under 13 | Highly restricted onboarding; guardian-heavy controls; limited distribution and tightly restricted data uses |
+| 13–15 | Guardian-centered approvals; limited commercialization; restricted promotional and AI options |
+| 16–17 | Expanded approved services with guardian consent; continued restrictions on sensitive AI and exploitative uses |
+| 18+ | Transition to the adult contributor framework with refreshed consents and elections |
 
-**Contributor and guardian obligations.** The Guardian must select only appropriate channels, territories, and monetization options and must not authorize uses beyond the Guardian's legal authority.
+## PART IV — Limited Grant of Rights
 
-**Limitations.** Ambiguous or high-risk uses are not granted by implication. Sensitive exploitation requires explicit written approval.
+### 18. General structure of grant
+The Guardian, on behalf of the Minor, grants AIWA a non-exclusive, worldwide, sublicensable only to approved service providers and channel partners, revocable for future-facing uses as stated in this Agreement, limited grant of rights for safeguarded exploitation and platform administration.
 
-**Survivability.** Rights survive only as stated in Part VIII and the specific clauses below.
+### 19. Operational rights
+**Scope.** AIWA may receive, ingest, host, store, transcode, format, classify, preserve, fingerprint, hash, moderate, localize for accessibility, and otherwise technically process the Works and Contributor Materials.
 
-### 18. Operational Rights
-**Scope.** AIWA may receive, ingest, store, host, transcode, encode, format, package, archive, preserve, fingerprint, hash, moderate, classify, localize for accessibility, and technically process the Works and Contributor Materials.
+**Purpose.** To provide Platform Services, preserve chain of custody, support discovery, protect the Minor, and satisfy service requirements.
 
-**Operational purpose.** To provide Platform Services, maintain provenance, support accessibility and educational delivery, protect the minor Contributor, and satisfy platform requirements.
+**Limitations.** Operational processing may not materially distort the Works except for technical compliance, accessibility, moderation, safety, or legal requirements.
 
-**Contributor and guardian obligations.** The Guardian must provide age information, content ratings, required permissions, and accurate technical and rights metadata.
+**Survivability.** Archival copies, moderation records, and integrity logs may survive termination where reasonably necessary for safety, disputes, recordkeeping, or legal compliance.
 
-**AIWA rights.** AIWA may use service providers and platform partners to perform operational processing.
+### 20. Distribution rights
+**Scope.** AIWA may distribute, publish, stream, download, communicate to the public, syndicate, and otherwise make the Works available through approved channels.
 
-**Limitations.** AIWA may not materially distort the Works except for technical compliance, accessibility, moderation, safety, or lawful operational needs.
+**Purpose.** To enable controlled cross-media distribution while protecting the Minor's future interests.
 
-**Survivability.** Archival copies, fingerprints, moderation records, and audit logs may survive termination where reasonably necessary for safety, disputes, recordkeeping, or legal compliance.
+**Limitations.** Distribution is limited to channels approved through schedules, account settings, and AIWA safety review. AIWA may decline or restrict any territory, partner, campaign, or format that creates heightened risk.
 
-### 19. Distribution Rights
-**Scope.** AIWA may distribute, publish, stream, download, syndicate, communicate to the public, and otherwise make the Works available through approved Distribution Services and UGC Services.
+**Survivability.** AIWA may continue distribution only for a reasonable wind-down period needed to honor pre-termination commitments, process removals, and reconcile receivables.
 
-**Operational purpose.** To enable controlled distribution of the Works across permitted channels, including music, books, audiobooks, video, photography, graphics, podcasts, spoken word, and educational media.
+### 21. Commercial rights
+**Scope.** AIWA may monetize, license, sublicense, advertise, offer subscriptions, pursue approved sync opportunities, enable UGC monetization, and administer other selected Commercial Exploitation opportunities.
 
-**Contributor and guardian obligations.** The Guardian must approve the relevant schedules and confirm that the content is appropriate for each selected service.
+**Purpose.** To support age-appropriate monetization within a safeguarded platform model.
 
-**AIWA rights.** AIWA may appoint distributors, publishers, aggregators, educational partners, social platforms, and marketplaces to exercise the licensed rights.
+**Limitations.** Commercial uses are narrower than under the adult agreement. No broad perpetual commercialization is granted. AIWA may not approve exploitative merchandising, adult-targeted associations, political endorsements, harmful contextual uses, or materially expanded exploitation profiles without renewed Guardian approval or a separate addendum.
 
-**Limitations.** AIWA is not required to distribute every Work and may refuse or limit channels that create age, safety, reputational, legal, or educational risk.
+**Survivability.** Existing commercial commitments, receivables, reserves, and settlement adjustments survive only as long as reasonably necessary to conclude transactions entered during the term.
 
-**Survivability.** AIWA may continue distribution only for a reasonable wind-down period, including fulfillment of active licenses and platform removals already in progress.
+### 22. Metadata and provenance rights
+**Scope.** AIWA may collect, verify, normalize, enrich, correct, store, display, and share Metadata and provenance records related to the Works and account.
 
-### 20. Commercial Rights
-**Scope.** AIWA may monetize, license, sublicense, advertise, offer subscriptions, negotiate sync uses, enable UGC monetization, and pursue other Commercial Exploitation expressly permitted by the selected schedules for the minor account.
+**Purpose.** To support rights administration, anti-fraud review, settlements, provenance, conflict checks, and platform integrity.
 
-**Operational purpose.** To support age-appropriate monetization and rights administration without treating the account as a traditional label deal.
+**Limitations.** AIWA may not knowingly publish confidential age, school, identity, or Guardian documents except as required for operations, compliance, or enforcement.
 
-**Contributor and guardian obligations.** The Guardian must disclose any school, child-labor, performance-permit, union, privacy, publicity, or platform restrictions affecting commercial use.
+**Survivability.** Metadata histories, provenance logs, and audit trails may survive termination for integrity, safety, and compliance purposes.
 
-**AIWA rights.** AIWA may set pricing, release timing, packaging, promotional positioning, and partner terms for approved uses.
+### 23. Promotional rights
+**Scope.** AIWA may use titles, excerpts, thumbnails, artwork, credits, and other Guardian-approved promotional materials to market the Works and the related release.
 
-**Limitations.** No broad perpetual commercialization is granted. Uses that materially expand the exploitation profile of a minor Contributor require renewed guardian review or a new addendum. Sensitive categories, including adult-oriented uses, political endorsements, deceptive endorsements, or exploitative merchandising, are prohibited.
+**Purpose.** To support discovery and channel activation.
 
-**Survivability.** Existing commercial commitments, receivables, reserves, and accounting adjustments survive only as long as reasonably required to conclude transactions entered during the term.
+**Limitations.** Promotional use must be age-appropriate, non-deceptive, and limited to the Works or the AIWA services directly related to them. AIWA may not knowingly use the Minor's name or likeness in exploitative, misleading, adult-targeted, or unrelated endorsements.
 
-### 21. AI Rights
-**Scope.** AIWA may use the Works, Contributor Materials, and Metadata for ingestion, tokenization, fingerprinting, vectorization, embedding generation, classification, moderation, search, translation, accessibility, recommendation, analytics, rights verification, fraud detection, provenance tracking, and other minor-safe AI operations.
+**Survivability.** AIWA may keep historical campaign records and continue limited wind-down use for already-launched campaigns.
 
-**Operational purpose.** To protect the minor Contributor, maintain platform integrity, support accessibility and localization, and operate AIWA's rights infrastructure.
+## PART V — Minor AI Elections and Restricted AI Uses
 
-**Contributor and guardian obligations.** The Guardian must disclose restrictions on biometric data, sensitive voice uses, educational confidentiality, or other legally protected information.
+### 24. Default AI position
+Unless the Guardian elects otherwise through an approved workflow, AIWA may use the Works and Contributor Materials only for operational AI functions that are reasonably necessary for search, indexing, fingerprinting, moderation, fraud detection, provenance, recommendation, accessibility, and account protection.
 
-**AIWA rights.** AIWA may create non-public AI Datasets, Embeddings, hashes, and safety models needed for trust and safety, rights administration, localization, and accessibility.
+### 25. Minor AI elections
+The default election framework is:
 
-**Limitations.** Unless a separate written minor AI schedule says otherwise, AIWA may not: (a) commercialize the minor Contributor's identifiable Works as general-purpose training data; (b) create synthetic voice or likeness products that emulate the minor Contributor; (c) authorize sensitive profiling, biometric commercialization, or exploitative inferencing; or (d) represent generated outputs as original works of the minor Contributor.
+| AI use | Default status |
+| --- | --- |
+| Search and indexing | Allowed |
+| Moderation and fraud detection | Allowed |
+| Recommendation systems | Allowed |
+| Accessibility tooling | Allowed |
+| Translation and localization | Optional guardian election |
+| Commercial AI training | Off by default |
+| Synthetic voice cloning | Prohibited |
+| Generative identity simulation | Prohibited |
+| Facial replication or biometric identity modeling | Prohibited |
+| Deepfake generation | Prohibited |
 
-**Identifiable works vs transformed datasets.** Identifiable copies of Works remain subject to enhanced removal review and minor protections. Non-public safety models, fraud signals, provenance records, and statistical derivatives created during the term are treated as internal protective infrastructure rather than substitute copies of the Works.
+### 26. Optional AI-enabled uses
+If AIWA offers optional AI-enabled uses for the minor account, those uses require a clear Guardian election, must remain consistent with applicable law and safeguarding policy, and may be withdrawn prospectively for future-facing use unless technical, legal, or contractual constraints require a narrower remedy.
 
-**Survivability.** AIWA may retain and continue using already-created moderation assets, fraud signals, provenance records, Embeddings, and compliance datasets after termination where reasonably necessary for child safety, dispute defense, abuse prevention, or legal compliance. Any broader post-termination AI commercialization requires fresh adult-age consent or new guardian consent where lawful.
+### 27. Restricted AI uses
+Without separate written consent and only where legally permitted, AIWA may not use the Minor's Works or Sensitive Biometric Data for Restricted AI Uses.
 
-### 22. Promotional Rights
-**Scope.** AIWA may use titles, excerpts, thumbnails, artwork, credits, approved names, and approved likeness materials to market the Works and AIWA services.
+### 28. AI exclusion review
+A verified Guardian may ask AIWA to review whether a Protected Work should be excluded from optional AI-enabled uses, recommendation features, translation workflows, or other selected AI operations beyond the default protective baseline.
 
-**Operational purpose.** To support discovery and age-appropriate promotion.
+### 29. AI survivability and restraint
+AIWA may retain non-public embeddings, hashes, fraud signals, moderation artifacts, provenance records, and compliance datasets already created for protective, administrative, or technical purposes. This survival rule is limited to continuity, safety, auditability, and legal compliance and does not authorize ongoing unrestricted commercialization of minor-derived AI assets.
 
-**Contributor and guardian obligations.** The Guardian must identify any publicity restrictions, school restrictions, image restrictions, or safety concerns.
+## PART VI — Enhanced Removal Rights and Safeguarding Protections
 
-**AIWA rights.** AIWA may create previews, captions, storefront pages, educational catalogs, and partner-facing promotional materials.
+### 30. Enhanced review rights
+A verified Guardian may request suspension, reconsideration, restriction, de-indexing review, AI exclusion review, prospective termination, or other reasonable protective review for the Minor's account or Works.
 
-**Limitations.** AIWA may not knowingly use a minor Contributor's name or likeness in deceptive, exploitative, or age-inappropriate marketing.
+### 31. Review factors
+AIWA will consider child safety, educational harm, reputational harm, legal obligations, active licenses, technical feasibility, platform dependencies, and the Minor's future interests when assessing a request.
 
-**Survivability.** AIWA may keep historical promotional records and continue limited campaign wind-down use for already-launched promotions.
+### 32. Educational and safeguarding protections
+AIWA may restrict or refuse uses that:
+- interfere with school participation or youth-program obligations;
+- expose protected educational information;
+- create exploitative profiling or harmful contextual use;
+- associate the Minor with adult-targeted advertising, unsafe sponsorships, or deceptive endorsements; or
+- use Sensitive Biometric Data in ways inconsistent with this Agreement.
 
-## PART IV — Guardian Authority, Consent, and Protection Measures
+### 33. Enhanced privacy controls
+AIWA may restrict public metadata fields, hide account details, limit discoverability, or require additional review where public exposure could create elevated risk for the Minor.
 
-### 23. Guardian authority and verification
-The Guardian represents and warrants that the Guardian has legal authority to bind the minor Contributor, approve the selected services, and provide all consents required under applicable law. AIWA may require identity documents, custody documents, age records, or additional verification.
+## PART VII — Payments, Trust Protections, and Tax Handling
 
-### 24. Age confirmation
-The Guardian must provide accurate age information and notify AIWA promptly if any age, school, or legal status information changes.
+### 34. Guardian payout authority
+AIWA may require payments to be made only to a verified Guardian, custodial account, trust account, blocked account, or other legally authorized payee.
 
-### 25. Enhanced privacy
-AIWA will limit public disclosure of personal data beyond what is reasonably necessary for distribution, payments, safety, or legal compliance and may restrict public-facing data fields for minor accounts.
+### 35. Trust and deferred payment options
+Where operationally supported or legally required, AIWA may offer deferred payout handling, reserve-based protection, trust-account routing, or majority-age release workflows for some or all revenue attributable to the Minor.
 
-### 26. Enhanced removal review
-Requests to suspend or remove a minor Contributor's Works will receive enhanced review that considers child safety, educational harm, legal obligations, active third-party commitments, and preservation of non-public compliance records.
-
-### 27. Educational safeguards
-AIWA may restrict uses that interfere with school participation, expose protected educational information, or create unreasonable reputational or developmental risk to the minor Contributor.
-
-## PART V — Metadata, Provenance, and Governance
-
-### 28. Metadata license and governance authority
-**Scope.** The Guardian grants AIWA the right to collect, verify, normalize, enrich, display, correct, store, and share Metadata and provenance records related to the Works and account.
-
-**Operational purpose.** To support rights administration, child safety, discovery, settlements, conflict checks, fraud review, and chain-of-title management.
-
-**Contributor and guardian obligations.** The Guardian must provide complete, current Metadata, including ownership splits, approvals, contributors, and restrictions on sensitive information.
-
-**AIWA rights.** AIWA may append platform IDs, fingerprints, content labels, safety flags, and historical audit entries.
-
-**Limitations.** AIWA may not knowingly publish confidential identity, school, or guardian documents except as required for operations, compliance, or enforcement.
-
-**Survivability.** Metadata histories, provenance logs, and audit trails survive termination for integrity, safety, and compliance purposes.
-
-## PART VI — Anti-Fraud, Trust and Safety, and Enforcement Cooperation
-
-### 29. Verification and anti-fraud controls
-AIWA may require identity verification, guardian verification, ownership evidence, source files, voice provenance, session data, and other fraud-prevention information before or after onboarding.
-
-### 30. Prohibited conduct
-The minor Contributor and Guardian must not engage in fake streams, manipulated engagement, metadata fraud, age misrepresentation, AI impersonation, synthetic voice fraud, unauthorized samples, manipulated ownership claims, identity fraud, or other abusive conduct.
-
-### 31. Enforcement authority
-**Scope.** AIWA may review, flag, suspend, reject, delist, geoblock, mute, demonetize, reserve against, or remove Works; delay settlements; issue notices; submit disputes; send takedowns; and cooperate with DSPs, marketplaces, payment providers, and legal authorities.
-
-**Operational purpose.** To protect the minor Contributor, maintain platform integrity, prevent abuse, and enforce rights administered under this Agreement.
-
-**Contributor and guardian obligations.** The Guardian must respond promptly to requests for evidence and cooperate with investigations.
-
-**Limitations.** AIWA acts as a private rights operator, not a governmental authority, and will apply proportionate, documented, and operationally scalable measures.
-
-**Survivability.** Investigation records, safety models, reserves, and cooperation obligations survive until the relevant issue is closed.
-
-### 32. Reserves, holds, and clawbacks
-AIWA may place reserves and withhold or recoup amounts for claims, fraud review, chargebacks, refunds, DSP reversals, tax obligations, sanctions review, or accounting corrections.
-
-## PART VII — Revenue, Accounting, and Payment
-
-### 33. Revenue model
-Revenue may arise from distribution income, publishing income, sync, UGC monetization, advertising, subscriptions, educational licensing, sublicensing, and future approved monetization models.
-
-### 34. Settlement basis
+### 36. Settlement basis and deductions
 Unless a schedule provides otherwise, net revenue means amounts actually received by AIWA from exploitation of the Works minus commissions, third-party fees, taxes, payment processing costs, currency conversion costs, refunds, chargebacks, reserves, fraud losses, and legally required deductions.
 
-### 35. Payment instructions
-AIWA may require payments to be made to a verified Guardian, custodial account, trust account, or other legally authorized payee and may pause payment until satisfactory verification is completed.
+### 37. Holds, reserves, and tax handling
+AIWA may hold or reserve payouts for fraud review, age or authority verification, disputes, chargebacks, platform reversals, tax documentation issues, sanctions review, or other compliance reasons.
 
-### 36. Non-payment situations
-Certain promotional, safety, moderation, accessibility, educational, beta, or internal operations may generate no separate payment unless a schedule states otherwise.
+## PART VIII — Transition to Adult Status
 
-## PART VIII — Term, Suspension, Termination, and Transition to Adulthood
+### 38. Transition notice
+When AIWA becomes aware that the Minor is approaching or has reached the age of majority, AIWA may request updated contact details, direct acknowledgment from the now-adult contributor, and refreshed account documentation.
 
-### 37. Term
-This Agreement starts when accepted by the Guardian and continues until terminated, the minor reaches the age of majority and transitions to a new agreement, or the account is otherwise closed.
+### 39. Re-consent and account migration
+Continued exploitation after the age of majority may require migration into the then-current adult contributor framework, acceptance of updated schedules, and confirmation of payout instructions.
 
-### 38. Suspension
-AIWA may suspend any Work, feature, payout, territory, or service access immediately for age-verification, safety, legal, policy, fraud, quality-control, or operational reasons.
+### 40. Updated elections and AI permissions
+Any optional AI-enabled uses, promotional elections, or expanded commercialization settings for the now-adult contributor must be re-elected or re-authorized under the adult framework before continuing beyond the permissions already active during minority.
 
-### 39. Guardian termination of future services
-A verified Guardian may terminate future exploitation on written notice, subject to reasonable operational wind-down, existing commitments, accrued obligations, and survival rights.
+## PART IX — Anti-Fraud, Enforcement, and Responsibility Allocation
 
-### 40. AIWA termination
-AIWA may terminate or decline future exploitation at any time for safety, compliance, business, reputational, legal, or policy reasons.
+### 41. Anti-fraud controls
+AIWA may require identity verification, guardian verification, source files, rights documentation, voice provenance, ownership evidence, and other fraud-prevention materials before or after activation.
 
-### 41. Transition to adult agreement
-When the minor reaches the age of majority, AIWA may require the now-adult contributor to accept the then-current adult contributor agreement before continuing broader exploitation or AI uses beyond those already permitted here.
+### 42. Prohibited conduct
+The Minor and Guardian must not engage in fake streams, manipulated engagement, metadata fraud, age misrepresentation, identity fraud, unauthorized samples, manipulated ownership claims, AI impersonation, synthetic voice fraud, or other abusive conduct.
 
-### 42. Effect of termination
-Termination stops new discretionary future exploitation, except where continued use is required to wind down activities, satisfy sublicenses, collect receivables, complete reporting cycles, preserve compliance records, or exercise surviving rights.
+### 43. Enforcement authority
+AIWA may review, flag, suspend, reject, delist, geoblock, mute, demonetize, reserve against, remove Works, send notices, submit disputes, issue takedown requests, and cooperate with distributors, platforms, payment providers, and legal authorities as reasonably necessary to protect the Minor, the platform, and third parties.
 
-### 43. Survival
-The following survive termination for as long as reasonably necessary for their purpose: payment rights and adjustments; reserves; fraud and enforcement cooperation; Metadata and provenance records; privacy and compliance duties; dispute handling; rights needed to honor pre-termination commitments; and the limited AI Rights survivability provisions in Section 21.
+### 44. Responsibility allocation
+The Guardian is responsible for losses arising from breach of guardian authority, fraudulent submissions, or materially inaccurate rights or age information supplied for the account, to the extent permitted by applicable law.
 
-## PART IX — Representations, Warranties, and Responsibility Allocation
+## PART X — Termination and Survivability
 
-### 44. Guardian and contributor representations
-The Guardian and, to the extent legally relevant, the minor Contributor represent, warrant, and covenant that:
-- the Guardian has authority to enter this Agreement;
-- the Works and Contributor Materials, as delivered, do not knowingly infringe third-party rights or violate applicable law;
-- all Metadata, age data, and payment information supplied to AIWA is materially accurate and current;
-- required consents, permits, clearances, split agreements, and permissions have been obtained; and
-- the account will comply with incorporated policies and selected schedules.
+### 45. Term and suspension
+This Agreement starts when accepted by the Guardian and continues until terminated, replaced through adult transition, or closed by AIWA. AIWA may suspend any Work, feature, payout, or territory immediately for safety, age-verification, legal, fraud, or operational reasons.
 
-### 45. AI-assisted and third-party materials disclosure
-The Guardian must disclose material AI generation, synthetic voice use, biometric sensitivities, training-source restrictions, third-party samples, and any other circumstance that could affect exploitation, authenticity, safety, or legal risk.
+### 46. Guardian termination of future-facing uses
+A verified Guardian may terminate future-facing exploitation on written notice, subject to reasonable operational wind-down, existing commitments, accrued obligations, and survival rights.
 
-### 46. Responsibility allocation
-To the extent permitted by applicable law, the Guardian is responsible for losses arising from breach of the Guardian's authority or the account's fraudulent submissions. AIWA will control defense and settlement of platform-operation claims while reasonably informing the Guardian where the Guardian's conduct is at issue.
+### 47. Effect of termination
+Termination stops new discretionary future-facing uses except where continued activity is reasonably required to wind down distribution, satisfy existing licenses, collect receivables, complete reporting cycles, preserve compliance records, or exercise surviving protections under this Agreement.
 
-## PART X — Privacy, Compliance, and Jurisdiction Framework
-
-### 47. Privacy and compliance
-AIWA may process personal data and compliance information as described in incorporated policies and applicable law, including child-protection, KYC, AML, sanctions, tax, and recordkeeping obligations.
-
-### 48. Cross-border operations
-The parties acknowledge that AIWA operates across African markets, ECOWAS-connected environments, and global partner ecosystems and that data, rights administration, and dispute handling may involve multiple jurisdictions.
-
-### 49. Dispute structure
-Unless a schedule or mandatory law states otherwise, disputes should first be escalated through AIWA's documented review procedures, then commercial negotiation involving the Guardian, and then arbitration or court proceedings designated in the applicable jurisdiction schedule or onboarding terms.
-
-### 50. Flexible jurisdiction strategy
-This Agreement is intended to support jurisdiction-specific schedules and child-protection requirements rather than assume a single U.S.-centric legal model.
+### 48. Survivability
+The following survive only for as long as reasonably necessary for their protective or administrative purpose: payment rights and adjustments; reserves; anti-fraud and enforcement cooperation; Metadata and provenance records; privacy and compliance duties; dispute handling; active channel wind-down rights; and the limited internal AI survivability stated in Section 29.
 
 ## PART XI — Incorporated Schedules and Policies
 
-### 51. Media and service schedules
-This Agreement may incorporate one or more of the following schedules, as selected for the minor account:
+### 49. Selected schedules
+This Agreement may incorporate selected schedules approved for the minor account, including:
 - /schedules/schedule_music_audio.md
 - /schedules/schedule_books_literary.md
 - /schedules/schedule_visual_graphics.md
@@ -307,7 +270,7 @@ This Agreement may incorporate one or more of the following schedules, as select
 - /schedules/schedule_ugc_social_media.md
 - /schedules/schedule_sync_licensing.md
 
-### 52. Incorporated policies
+### 50. Incorporated policies
 This Agreement incorporates the following policies by reference:
 - /policies/content_policy.md
 - /policies/anti_fraud_policy.md
@@ -319,16 +282,5 @@ This Agreement incorporates the following policies by reference:
 - /policies/minors_safeguards_policy.md
 - /policies/takedown_dispute_policy.md
 
-### 53. Order of precedence
+### 51. Order of precedence
 If there is a conflict, the order of precedence is: signed addendum; selected schedule; this Agreement; incorporated policy; operational specification, except that mandatory law overrides all contractual documents.
-
-## PART XII — Modular Drafting Controls
-
-### 54. Clause architecture
-Each clause in this Agreement is intended to be separable for contributor portal display, child-safeguard review, policy versioning, and structured data extraction.
-
-### 55. Updates
-AIWA may update non-material operational policies on notice where permitted by applicable law. Material changes to economics, commercialization scope, or AI treatment for the minor account require affirmative acceptance by the Guardian or a new addendum.
-
-### 56. Entire relationship for minor onboarding
-This Agreement, together with selected schedules, policies, and signed addenda, forms the core minor contributor agreement system for AIWA's universal creative rights and AI infrastructure operations.
